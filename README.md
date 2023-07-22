@@ -19,7 +19,7 @@
 * Controller - it has all the method 
 * Services - it has service logic.
 * Repository - It has repo .
-* Model - it has al entity like room.
+* Model - it has all entity like room.
 > The Controller is calling all the method through the object of service class service class has implementation of all the logics
 and Repository class has datasource and Model has a class which has all the properties of Restaurant like Room no. rooom id and romtype and roomprice.
 
